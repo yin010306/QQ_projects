@@ -1,0 +1,5 @@
+
+RotatingStackedWidget::RotatingStackedWidget(QWidget *parent)
+{
+
+}
